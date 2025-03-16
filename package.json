@@ -1,0 +1,15 @@
+{
+  "name": "nids_model",
+  "version": "1.0.0",
+  "description": "an advanced nids model featuring 3-tier node.js, flask api & ML architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Ayush, Abhinav, Nikhil",
+  "license": "ISC"
+}
