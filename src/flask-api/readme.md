@@ -26,15 +26,11 @@ The system extracts these timing-based features:
 - Flask
 - NumPy
 - pandas
-- scikit-learn (or LightGBM if that's your model)
+- scikit-learn ( LightGBM )
 - Pickle
 
 ### Installation
 
-1. Clone this repository:
-```
-git clone 
-```
 
 2. Install requirements:
 ```
